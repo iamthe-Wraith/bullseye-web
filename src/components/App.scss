@@ -1,0 +1,28 @@
+* {
+  font-family: "Open Sans",sans-serif;
+  color: white;
+}
+
+body {
+  background: #222;
+}
+
+.init-header,
+.init-subcopy,
+.init-config {
+  text-align: center;
+}
+
+.init-header {
+  margin: 50px 0 0;
+}
+
+.init-subcopy {
+  margin: 10px 0 0;
+  font-size: 12px;
+  color: rgb(0, 180, 230);
+}
+
+.init-config {
+  margin: 50px 0 0;
+}

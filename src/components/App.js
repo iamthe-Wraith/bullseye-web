@@ -1,5 +1,5 @@
 import React from 'react';
-import { BullsEyeAPI } from '../apis/bullseye';
+import BullsEyeAPI from '../apis/bullseye';
 
 import './App.scss';
 
